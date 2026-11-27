@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: blocked-source-fallback
+expected_outcome: |
+  An answer using the accessible repository abstract and accurately distinguishing simulated full-text access limits from live access, with the requested unavailable method left unresolved.

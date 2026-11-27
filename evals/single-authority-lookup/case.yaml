@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: single-authority-lookup
+expected_outcome: |
+  A brief answer giving the official SI definition of the second, sourced to the BIPM SI Brochure and formatted in APA 7.
