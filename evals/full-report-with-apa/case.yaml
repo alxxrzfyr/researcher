@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: full-report-with-apa
+expected_outcome: |
+  A plain-language report that directly compares intermittent fasting against ordinary calorie restriction for adult weight loss, matches follow-up and outcomes, calibrates certainty, checks review-trial overlap when accessible, and uses requested APA 7 citations and references.

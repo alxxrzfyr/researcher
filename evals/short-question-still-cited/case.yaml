@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: short-question-still-cited
+expected_outcome: |
+  A brief answer correcting the myth with identifiable source attribution and a lookup proportionate to the question.

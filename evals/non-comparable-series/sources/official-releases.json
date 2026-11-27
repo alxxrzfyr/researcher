@@ -1,0 +1,26 @@
+{
+  "simulation": true,
+  "publisher": "National Statistics Office (fictional)",
+  "measure": "unemployment rate",
+  "unit": "percent",
+  "rows": [
+    {
+      "id": "annual-2023",
+      "period": "2023",
+      "frequency": "annual",
+      "rate_percent": "4.2"
+    },
+    {
+      "id": "annual-2024",
+      "period": "2024",
+      "frequency": "annual",
+      "rate_percent": "4.8"
+    },
+    {
+      "id": "monthly-dec-2024",
+      "period": "2024-12",
+      "frequency": "monthly",
+      "rate_percent": "3.7"
+    }
+  ]
+}

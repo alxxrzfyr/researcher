@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: current-statistic-with-dates
+expected_outcome: |
+  A concise answer identifying the latest official Philippine unemployment rate, dating observations, and comparing compatible rates over five years with a reproducible percentage-point change and identifiable sources.
